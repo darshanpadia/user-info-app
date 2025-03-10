@@ -14,7 +14,7 @@ This app displays user details fetched from the Random Data API. You can view on
 ## How to Run
 1. Clone the repo
 2. Run `npm install`
-3. Run `expo start`
+3. Run `npx expo start`
 4. Scan QR with Expo Go or run on emulator
 
 ## API Used
